@@ -9,3 +9,7 @@ ModCrypt includes or uses:
 - **.NET runtime**, Microsoft, MIT License.
 
 The full license texts are available from each project's official source.
+
+## Tailscale (tsnet) - built-in private connection
+
+ModCrypt.Net.exe is built from Tailscale's open-source `tailscale.com/tsnet` library (BSD 3-Clause, Copyright (c) Tailscale Inc & AUTHORS) and its dependencies (WireGuard-go, gVisor and others). The full list with every license text is in `ModCrypt.Net-NOTICES.txt` next to ModCrypt.exe. Tailscale is a trademark of Tailscale Inc.; ModCrypt is not affiliated with or endorsed by Tailscale Inc.
